@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/JoeRapso/Documents/myProjects/C#/AlgoChoose/AlgoChoose/AlgoChooseApp/AlgoChooseApp.csproj": {}
+  },
+  "projects": {
+    "/Users/JoeRapso/Documents/myProjects/C#/AlgoChoose/AlgoChoose/AlgoChooseApp/AlgoChooseApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/JoeRapso/Documents/myProjects/C#/AlgoChoose/AlgoChoose/AlgoChooseApp/AlgoChooseApp.csproj",
+        "projectName": "AlgoChooseApp",
+        "projectPath": "/Users/JoeRapso/Documents/myProjects/C#/AlgoChoose/AlgoChoose/AlgoChooseApp/AlgoChooseApp.csproj",
+        "packagesPath": "/Users/JoeRapso/.nuget/packages/",
+        "outputPath": "/Users/JoeRapso/Documents/myProjects/C#/AlgoChoose/AlgoChoose/AlgoChooseApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/JoeRapso/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

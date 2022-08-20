@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mh2apUyeARR+Vx9eMkZurbxM/GgVpCjmQTYZa7U4ZmUArVcZ1M4p8CijR+w0yrib+iv0lVjOHs7qAWjTP0ufQ==",
+  "success": true,
+  "projectFilePath": "/Users/JoeRapso/Documents/myProjects/C#/AlgoChoose/AlgoChoose/AlgoChooseApp/AlgoChooseApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/JoeRapso/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/JoeRapso/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/JoeRapso/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/JoeRapso/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
